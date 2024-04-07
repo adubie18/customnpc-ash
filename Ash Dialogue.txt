@@ -1,0 +1,20 @@
+Ash Dialogue
+
+Daily Locations...
+At River...
+(Under 3 Hearts)
+*She seems to not even notice your presence, eyes lost in a conversation you can sense is happening but don't quite understand*
+(3-5 Hearts)
+"Huh? Oh hey [insert name]. I was just lost in thought. Does that ever happen to you?"
+(Over 6 Hearts)
+"Come join me for a while [insert name]. If you listen for long enough, it is like the river will start to speak to you."
+(Dating)
+"Hi [insert name], I am happy to see you. I was just thinking about you, you know? I often do when I feel at peace with nature."
+
+At Library...
+(Under 3 Hearts) 
+*She is busy reading a book titled "Moby Dick." There is a large white whale on the cover. She doesn't even notice you are there*
+(3-5 Hearts)
+"I love the library. It smells a little musty sure, but I like that. Did you know some books in here are almost one hundred years old?"
+(Over 6 Hearts)
+"I have tried to write once or twice before. Mainly poetry. If I thought it was good enough, maybe I would try to show people. Oh well..."
